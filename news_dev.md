@@ -1,15 +1,14 @@
 ---
-title: Neues aus dem GSL Service Center
-date: 2026-07-22
-moreUrl: https://www.gsl-computer.de/aktuelles/
-buttonText: Mehr erfahren
+title: Microsoft Copilot im Arbeitsalltag
+moreUrl: https://www.gsl-computer.de/microsoft-copilot/
+buttonText: Mehr zu Copilot
 ---
 
-## Wartungshinweis
+## KI-Unterstützung für moderne Zusammenarbeit
 
-Am Wochenende finden geplante Wartungsarbeiten statt.
+Microsoft Copilot unterstützt dabei, Informationen schneller zu erfassen, Inhalte effizienter zu erstellen und wiederkehrende Aufgaben im Microsoft-365-Umfeld zu vereinfachen.
 
-
-- Zeitraum: Samstag und Montag, 20:00 Uhr
-- Betroffen: einzelne Cloud-Dienste
-- Handlung: keine
+- Produktiver arbeiten mit Word, Excel, Outlook, Teams und PowerPoint
+- Inhalte schneller zusammenfassen, formulieren und strukturieren
+- Arbeitsabläufe mit KI-Unterstützung gezielter vorbereiten
+- Chancen und Einsatzmöglichkeiten für Unternehmen kennenlernen
