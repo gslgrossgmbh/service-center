@@ -1,5 +1,5 @@
 ---
-title: Microsoft Copilot bereitstellen
+title: Microsoft Copilot für Ihr Unternehmen – wir zeigen Ihnen wie!
 moreUrl: https://www.gsl-computer.de/microsoft-copilot/
 buttonText: Mehr zu Copilot
 ---
