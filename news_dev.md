@@ -1,12 +1,10 @@
 ---
-title: Microsoft Copilot für Ihr Unternehmen
+title: Zeit sparen mit Microsoft Copilot
 moreUrl: https://www.gsl-computer.de/microsoft-copilot/
 buttonText: Mehr zu Copilot
 ---
 
-Sparen Sie Zeit, steigern Sie Produktivität.Sparen Sie Zeit
-Sparen Sie Zeit, steigern Sie Produktivität. 
-Sparen Sie Zeit, steigern Sie Produktivität. 
-Sparen Sie Zeit, steigern Sie Produktivität.
+Wir begleiten Ihr Unternehmen praxisnah und individuell bei der Einführung.
+Erleben Sie selbst, wie viel einfacher Ihr Arbeitsalltag mit KI werden kann.
 
 ## Wir zeigen Ihnen wie!
