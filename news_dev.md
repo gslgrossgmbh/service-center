@@ -4,5 +4,5 @@ moreUrl: https://www.gsl-computer.de/microsoft-copilot/
 buttonText: Mehr zu Copilot
 ---
 
-GSL unterstützt Sie bei der Einführung, Bereitstellung und sicheren Nutzung von Microsoft Copilot in Ihrer Microsoft-365-Umgebung.
-GSL unterstützt Sie bei der Einführung, Bereitstellung und sicheren Nutzung von Microsoft Copilot in Ihrer Microsoft-365-Umgebung.
+## Microsoft Copilot für Ihr Unternehmen – wir zeigen Ihnen wie!
+Sparen Sie Zeit, steigern Sie Produktivität. Jetzt unverbindlich beraten lassen
