@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>GSL-Service-Center</AssemblyName>
+    <RootNamespace>GSL_Rettungsring</RootNamespace>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Resources\AppIcon.ico</ApplicationIcon>
+
+    <Version>0.5.13</Version>
+    <AssemblyVersion>0.5.13.0</AssemblyVersion>
+    <FileVersion>0.5.13.0</FileVersion>
+  
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>false</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <PublishTrimmed>false</PublishTrimmed>
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\AppIcon.ico" LogicalName="AppIcon.ico" />
+    <EmbeddedResource Include="Resources\AppIcon.png" LogicalName="AppIcon.png" />
+    <EmbeddedResource Include="Resources\GslLogo.png" LogicalName="GslLogo.png" />
+  </ItemGroup>
+</Project>
