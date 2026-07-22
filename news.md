@@ -1,14 +1,10 @@
 ---
-title: Neues aus dem GSL Service Center
-date: 2026-07-22
-moreUrl: https://www.gsl-computer.de/aktuelles/
-buttonText: Mehr erfahren
+title: Zeit sparen mit Microsoft Copilot
+moreUrl: https://www.gsl-computer.de/microsoft-copilot/
+buttonText: Mehr zu Copilot
 ---
 
-## Wartungshinweis
-
-Am Wochenende finden geplante Wartungsarbeiten statt.
-
-- Zeitraum: Samstag, 20:01 Uhr
-- Betroffen: einzelne Cloud-Dienste
-- Handlung: keine
+<br>
+Wir begleiten Ihr Unternehmen praxisnah und individuell bei der Einführung.
+<br>
+Erleben Sie selbst, wie viel einfacher Ihr Arbeitsalltag mit KI werden kann!
