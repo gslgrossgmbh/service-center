@@ -7,8 +7,8 @@ buttonText: Mehr erfahren
 
 ## Wartungshinweis
 
-Am Wochenendä findeadasdn geplante Wartungsarbeiten statt.
+Am Wochenende finden geplante Wartungsarbeiten statt.
 
-- Zeitraum: Samstag, 20:00 Uhr
+- Zeitraum: Samstag und Montag, 20:00 Uhr
 - Betroffen: einzelne Cloud-Dienste
 - Handlung: keine
