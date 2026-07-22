@@ -8,3 +8,4 @@ buttonText: Mehr zu Copilot
 
 
 GSL unterstützt Sie bei der Einführung, Bereitstellung und sicheren Nutzung von Microsoft Copilot in Ihrer Microsoft-365-Umgebung.
+GSL unterstützt Sie bei der Einführung, Bereitstellung und sicheren Nutzung von Microsoft Copilot in Ihrer Microsoft-365-Umgebung.
