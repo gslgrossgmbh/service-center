@@ -9,6 +9,6 @@ buttonText: Mehr erfahren
 
 Am Wochenende finden geplante Wartungsarbeiten statt.
 
-- Zeitraum: Samstag, 20:00 Uhr
+- Zeitraum: Samstag, 20:01 Uhr
 - Betroffen: einzelne Cloud-Dienste
 - Handlung: keine
