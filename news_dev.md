@@ -8,6 +8,5 @@ Sparen Sie Zeit, steigern Sie Produktivität.Sparen Sie Zeit
 Sparen Sie Zeit, steigern Sie Produktivität. 
 Sparen Sie Zeit, steigern Sie Produktivität. 
 Sparen Sie Zeit, steigern Sie Produktivität.
-Sparen Sie Zeit, steigern Sie Produktivität. 
 
 ## Wir zeigen Ihnen wie!
